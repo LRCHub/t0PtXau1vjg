@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "君の体温（feat. 初音ミク）",
+  "base_artist": "クワガタP",
+  "createdAt": "2026-03-08T07:41:23.043421Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "君の体温 (feat. 初音ミク)",
+      "artist": "クワガタP",
+      "has_synced": false,
+      "path": "select/pl_01_君の体温_(feat._初音ミク)_クワガタP.txt"
+    }
+  ]
+}
